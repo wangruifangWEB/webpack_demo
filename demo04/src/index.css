@@ -1,0 +1,6 @@
+body{
+	background-color: pink;
+}
+:global(.h2) {
+  color: blue;
+}
